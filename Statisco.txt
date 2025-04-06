@@ -1,0 +1,230 @@
+[Expand][6]
+
+##### Contents
+
+-   [Data Chart][7]
+-   [Data Table][8]
+-   [Data Analysis][9]
+-   [Frequently Asked Questions][10]
+-   [Terms and Definitions][11]
+-   [Related statistics][12]
+-   [Related topics][13]
+-   [Related locations][14]
+
+[[Instagram: Monthly Active Users, by year]][15]
+
+Year
+
+Number of users, in millions
+
+Dec 2021
+
+2,000
+
+Jun 2018
+
+1,000
+
+Sep 2017
+
+800
+
+Apr 2017
+
+700
+
+Dec 2016
+
+600
+
+Jun 2016
+
+500
+
+Sep 2015
+
+400
+
+Dec 2014
+
+300
+
+Mar 2014
+
+200
+
+Sep 2013
+
+150
+
+Jun 2013
+
+130
+
+Feb 2013
+
+100
+
+Jan 2013
+
+90
+
+-   Source: [TechCrunch, Instagram, CNBC - Number of monthly active Instagram users][16]
+
+-   Region: Worldwide
+-   Time period: Jan 2013 to Dec 2021
+-   Published: Dec 2021
+
+#### Data Analysis and Insights
+
+Updated: Mar 27, 2024 | Published by: [Statistico][17] | [About Us][18] | [Data sources][19]
+
+### Doubling of Monthly Active Users from 2016 to 2021
+
+Instagram's monthly [active users][20] saw a dramatic increase, doubling from 500 million in June 2016 to 1 billion by June 2018, and further swelling to 2 billion by December 2021. The platform demonstrated a consistent growth pattern, adding approximately 500 million users every 18 to 24 months during this period.  
+
+### Rapid Early Growth
+
+Between February 2013 and December 2014, [Instagram][21]'s user base grew from 100 million to 300 million, marking a 200% increase in less than two years. This period highlighted the platform's rapid early adoption and growth.  
+
+### Steady Increase in User Base
+
+From its early days until 2021, Instagram's user base consistently increased, never showing a decrease in the number of monthly active users. Each recorded interval shows positive growth, indicating the platform's expanding popularity and engagement over the years.  
+
+### Significant Milestones
+
+Instagram hit several significant milestones, including reaching 200 million monthly active users by March 2014, a mere three years after its launch. Subsequently, it achieved 1 billion users by June 2018, showcasing the platform's rapid ascent in the social media landscape.  
+
+### Acceleration in User Acquisition
+
+The time taken for Instagram to acquire each additional 100 million users has decreased significantly since its inception. Initially, it took over two years to move from 90 to 200 million users (January 2013 to March 2014), but by 2017-2018, such increases were happening in as short as six months, underscoring the platform's accelerating growth rate.  
+
+### Deceleration in Growth Post-2018
+
+While Instagram continued to grow past 2018, the rate of user acquisition showed signs of deceleration. The platform needed approximately 2.5 years to double from 1 billion to 2 billion users (June 2018 to December 2021), compared to the quicker pace observed in earlier years. This suggests a maturing platform facing the challenges of sustaining its initial rapid growth rates.
+
+#### Frequently Asked Questions
+
+###### How many active monthly users did Instagram have by December 2021?
+
+Instagram had 2 billion monthly [active users][22] by December 2021.
+
+###### What was the growth rate of Instagram's user base between February 2013 and December 2014?
+
+Instagram's user base grew by 200% between February 2013 and December 2014.
+
+###### What has been the growth pattern of Instagram after reaching 1 billion users in June 2018?
+
+After reaching 1 billion users in June 2018, Instagram showed signs of deceleration in growth, taking approximately 2.5 years to double its user base.
+
+#### Terms and Definitions
+
+### Instagram
+
+### Monthly Active Users (MAUs)
+
+### Active User
+
+### Instagram Users
+
+### Instagram User Engagement
+
+### Unique Users
+
+### Digital Filters
+
+### Social Networking Service
+
+[All statistics][23]
+
+#### Related statistics
+
+##### [Internet: Most Visited Websites, by monthly unique visitors][24]
+
+[[Internet: Most Visited Websites, by monthly unique visitors]][25]
+
+Google, Facebook, and YouTube are currently among the most popular websites worldwide, attracting billions of users each day with their vast array of information, social networking opportunities, and entertainment content. [Read more »][26]
+
+[U.S.: Teen's Daily Time on Social Media, by gender and platform][27]
+
+[Instagram: Favorite Types of Posts, by users' preferences][28]
+
+[Social Networks: Ranking, by number of users][29]
+
+[Instagram: Number of Users, by country][30]
+
+[Instagram: Top Accounts, by number of followers][31]
+
+[All topics][32]
+
+#### Related topics
+
+##### [Instagram][33]
+
+Instagram is a popular social media platform that has millions of users worldwide, known for its image-based sharing, filters, and stories feature. [Read more »][34]
+
+[Share][35][][36][][37][More][38]
+
+-   [Email][39]
+-   [Viber][40]
+-   [WhatsApp][41]
+
+## Privacy Preferences
+
+We and our partners share information on your use of this website to help improve your experience. For more information, or to opt out click the Do Not Sell My Information button below.
+
+Consent Do Not Sell My Information
+
+[1]: https://www.statistico.com/
+[2]: https://www.statistico.com/s/instagram-monthly-active-users-by-year
+[3]: https://www.statistico.com/
+[4]: https://www.statistico.com/statistics
+[5]: https://www.statistico.com/s/instagram-monthly-active-users-by-year
+[6]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#collapse-contents
+[7]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#chart
+[8]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#table
+[9]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#text
+[10]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#faq
+[11]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#terms-and-definitions
+[12]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#related-statistics
+[13]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#related-topics
+[14]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#related-locations
+[15]: https://www.statistico.com/s/instagram-monthly-active-users-by-year
+[16]: https://www.cnbc.com/2021/12/14/instagram-surpasses-2-billion-monthly-users.html
+[17]: https://www.statistico.com/i/contact
+[18]: https://www.statistico.com/i/about-us#aboutus
+[19]: https://www.statistico.com/i/about-us#data
+[20]: https://www.statistico.com/s/social-networks-ranking-by-number-of-users
+[21]: https://www.statistico.com/s/social-networks-ranking-by-number-of-users
+[22]: https://www.statistico.com/s/instagram-number-of-users-by-country
+[23]: https://www.statistico.com/statistics
+[24]: https://www.statistico.com/s/internet-most-visited-websites-by-monthly-unique-visitors
+[25]: https://www.statistico.com/s/internet-most-visited-websites-by-monthly-unique-visitors
+[26]: https://www.statistico.com/s/internet-most-visited-websites-by-monthly-unique-visitors
+[27]: https://www.statistico.com/s/us-teens-daily-time-on-social-media-by-gender-and-platform
+[28]: https://www.statistico.com/s/instagram-favorite-types-of-posts-by-users-preferences
+[29]: https://www.statistico.com/s/social-networks-ranking-by-number-of-users
+[30]: https://www.statistico.com/s/instagram-number-of-users-by-country
+[31]: https://www.statistico.com/s/instagram-top-accounts-by-number-of-followers
+[32]: https://www.statistico.com/topics
+[33]: https://www.statistico.com/t/instagram
+[34]: https://www.statistico.com/t/instagram
+[35]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#
+[36]: https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.statistico.com%2Fs%2Finstagram-monthly-active-users-by-year&amp;t=Instagram%3A+Monthly+Active+Users%2C+by+year
+[37]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.statistico.com%2Fs%2Finstagram-monthly-active-users-by-year&amp;text=Instagram%3A+Monthly+Active+Users%2C+by+year&amp;via=
+[38]: https://www.statistico.com/s/instagram-monthly-active-users-by-year#
+[39]: mailto:?subject=Instagram:%20Monthly%20Active%20Users,%20by%20year&amp;body=https://www.statistico.com/s/instagram-monthly-active-users-by-year
+[40]: viber://forward?text=https://www.statistico.com/s/instagram-monthly-active-users-by-year
+[41]: whatsapp://send?text=https://www.statistico.com/s/instagram-monthly-active-users-by-year
+[42]: https://www.statistico.com/g
+[43]: https://www.statistico.com/i/terms-of-use
+[44]: https://www.statistico.com/i/privacy-policy
+[45]: https://www.statistico.com/i/cookies-policy
+[46]: https://www.statistico.com/i/disclaimer
+[47]: https://www.statistico.com/i/contact
+[48]: https://www.statistico.com/i/contact
+[49]: https://www.statistico.com/i/contact
+[50]: https://www.statistico.com/i/about-us
+[51]: https://www.facebook.com/statisticocom/
+[52]: https://www.instagram.com/statistico_com/
+[53]: https://twitter.com/statistico_com
